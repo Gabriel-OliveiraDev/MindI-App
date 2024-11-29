@@ -1,0 +1,1 @@
+export type IconType = "MaterialIcons" | "FontAwesome" | "Ionicons" | "Feather" | "MaterialCommunityIcons" | "Entypo";

@@ -1,0 +1,1 @@
+export type LanguagesType = 'pt-BR' | 'en-US';

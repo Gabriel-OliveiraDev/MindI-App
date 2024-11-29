@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638731359961",
+    "project_id": "mindi-app-b1e83",
+    "storage_bucket": "mindi-app-b1e83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638731359961:android:29093d78890e39fe2250c8",
+        "android_client_info": {
+          "package_name": "com.mindi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFazuVRhcstoPz1isfgCZPmP9UnRLC3Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
